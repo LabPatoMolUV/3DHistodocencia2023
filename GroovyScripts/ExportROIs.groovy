@@ -11,7 +11,7 @@ def downsample = 4
 
 
 //Define destination folder
-def pathOutput = buildFilePath(PROJECT_BASE_DIR, 'ROIs_2')
+def pathOutput = buildFilePath(PROJECT_BASE_DIR, 'ROIs')
 mkdirs(pathOutput)
 
 //image name
