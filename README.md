@@ -1,4 +1,7 @@
 # 3DHistodocencia2023
+Hello!
+
+Our group is part of the Histology Unit of the University of València.
 
 This repository has been created for the Histodocencia2023 meeting, September 8th 2023, Madrid, Spain.  
 
