@@ -11,7 +11,7 @@ In the presentation we showed the design of a practicum for our students of biom
 
 Here you can find the Groovy scripts used to perform the practicum. 
 
-In this link you will find the Youtube Tutorial: 
+In this link you will find the Youtube Tutorial: https://www.youtube.com/watch?v=wjmerJTTboA
 
 
 We hope that you enjoy the practicum!
